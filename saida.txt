@@ -1,0 +1,4832 @@
+Threads: 1 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 29904 block column size: 29817
+Alignment time: 36.688248 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 29904 block column size: 29817
+Alignment time: 36.686719 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 29904 block column size: 29817
+Alignment time: 36.659917 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 14952 block column size: 14908
+Alignment time: 28.274084 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 14952 block column size: 14908
+Alignment time: 28.832158 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 14952 block column size: 14908
+Alignment time: 28.291317 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 9968 block column size: 9939
+Alignment time: 23.365563 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 9968 block column size: 9939
+Alignment time: 23.138331 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 9968 block column size: 9939
+Alignment time: 25.894895 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7476 block column size: 7454
+Alignment time: 27.886899 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7476 block column size: 7454
+Alignment time: 29.232190 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7476 block column size: 7454
+Alignment time: 27.893225 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5980 block column size: 5963
+Alignment time: 28.816438 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5980 block column size: 5963
+Alignment time: 25.545745 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5980 block column size: 5963
+Alignment time: 27.487406 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4984 block column size: 4969
+Alignment time: 26.546807 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4984 block column size: 4969
+Alignment time: 26.509100 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4984 block column size: 4969
+Alignment time: 26.488313 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4272 block column size: 4259
+Alignment time: 30.234421 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4272 block column size: 4259
+Alignment time: 28.727992 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4272 block column size: 4259
+Alignment time: 31.850550 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3738 block column size: 3727
+Alignment time: 31.222214 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3738 block column size: 3727
+Alignment time: 30.500563 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3738 block column size: 3727
+Alignment time: 30.506333 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3322 block column size: 3313
+Alignment time: 30.650440 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3322 block column size: 3313
+Alignment time: 31.026872 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3322 block column size: 3313
+Alignment time: 30.131968 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2990 block column size: 2981
+Alignment time: 30.096161 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2990 block column size: 2981
+Alignment time: 30.820513 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2990 block column size: 2981
+Alignment time: 29.813522 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2718 block column size: 2710
+Alignment time: 29.789733 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2718 block column size: 2710
+Alignment time: 29.657941 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2718 block column size: 2710
+Alignment time: 29.994537 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2492 block column size: 2484
+Alignment time: 29.811256 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2492 block column size: 2484
+Alignment time: 29.470926 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2492 block column size: 2484
+Alignment time: 30.404998 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2300 block column size: 2293
+Alignment time: 29.626654 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2300 block column size: 2293
+Alignment time: 29.551898 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2300 block column size: 2293
+Alignment time: 30.193425 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2136 block column size: 2129
+Alignment time: 29.204120 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2136 block column size: 2129
+Alignment time: 29.248988 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2136 block column size: 2129
+Alignment time: 29.613845 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1993 block column size: 1987
+Alignment time: 29.355950 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1993 block column size: 1987
+Alignment time: 29.263832 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1993 block column size: 1987
+Alignment time: 28.993073 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1869 block column size: 1863
+Alignment time: 28.947782 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1869 block column size: 1863
+Alignment time: 29.430436 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1869 block column size: 1863
+Alignment time: 29.305304 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1759 block column size: 1753
+Alignment time: 29.187916 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1759 block column size: 1753
+Alignment time: 29.098960 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1759 block column size: 1753
+Alignment time: 29.050668 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1661 block column size: 1656
+Alignment time: 29.399898 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1661 block column size: 1656
+Alignment time: 29.694380 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1661 block column size: 1656
+Alignment time: 28.747243 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1573 block column size: 1569
+Alignment time: 28.785403 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1573 block column size: 1569
+Alignment time: 29.453092 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1573 block column size: 1569
+Alignment time: 29.038869 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1495 block column size: 1490
+Alignment time: 29.303477 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1495 block column size: 1490
+Alignment time: 29.170937 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1495 block column size: 1490
+Alignment time: 28.889286 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1424 block column size: 1419
+Alignment time: 28.591157 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1424 block column size: 1419
+Alignment time: 29.136852 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1424 block column size: 1419
+Alignment time: 28.759575 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1359 block column size: 1355
+Alignment time: 29.341722 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1359 block column size: 1355
+Alignment time: 29.294544 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1359 block column size: 1355
+Alignment time: 29.356704 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1300 block column size: 1296
+Alignment time: 28.654655 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1300 block column size: 1296
+Alignment time: 29.033548 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1300 block column size: 1296
+Alignment time: 29.240619 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 30k Execução 1/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1246 block column size: 1242
+Alignment time: 29.111213 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 30k Execução 2/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1246 block column size: 1242
+Alignment time: 29.323641 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 30k Execução 3/3
+./main samples/30k1.fna samples/30k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >PE229505.1 KR 1020220164500-A/1: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+Subject Sequence: >PE229517.1 KR 1020220164500-A/26: INACTIVATED SARS-CoV-2 VIRUS VACCINE
+SIZE A: 29903 SIZE B: 29816
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 1246 block column size: 1242
+Alignment time: 29.227800 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 29794 
+Misses: 22 
+Gaps: 87 
+AlignmentSize: 29903
+Score: 59386
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 60001 block column size: 60001
+Alignment time: 151.813483 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 60001 block column size: 60001
+Alignment time: 152.119655 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 60001 block column size: 60001
+Alignment time: 152.101874 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 30000 block column size: 30000
+Alignment time: 117.536797 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 30000 block column size: 30000
+Alignment time: 117.791352 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 30000 block column size: 30000
+Alignment time: 117.487719 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 20000 block column size: 20000
+Alignment time: 140.584640 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 20000 block column size: 20000
+Alignment time: 121.232466 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 20000 block column size: 20000
+Alignment time: 120.680062 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 15000 block column size: 15000
+Alignment time: 131.566528 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 15000 block column size: 15000
+Alignment time: 118.521456 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 15000 block column size: 15000
+Alignment time: 121.832871 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 12000 block column size: 12000
+Alignment time: 106.331721 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 12000 block column size: 12000
+Alignment time: 128.532266 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 12000 block column size: 12000
+Alignment time: 129.080317 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 10000 block column size: 10000
+Alignment time: 127.865494 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 10000 block column size: 10000
+Alignment time: 116.606385 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 10000 block column size: 10000
+Alignment time: 126.179547 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8571 block column size: 8571
+Alignment time: 131.841748 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8571 block column size: 8571
+Alignment time: 132.136765 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8571 block column size: 8571
+Alignment time: 132.099226 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7500 block column size: 7500
+Alignment time: 128.197574 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7500 block column size: 7500
+Alignment time: 126.591628 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7500 block column size: 7500
+Alignment time: 129.607591 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6666 block column size: 6666
+Alignment time: 126.912206 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6666 block column size: 6666
+Alignment time: 126.356067 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6666 block column size: 6666
+Alignment time: 122.662385 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6000 block column size: 6000
+Alignment time: 128.281145 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6000 block column size: 6000
+Alignment time: 127.036765 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6000 block column size: 6000
+Alignment time: 127.622777 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5454 block column size: 5454
+Alignment time: 120.625646 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5454 block column size: 5454
+Alignment time: 126.591416 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5454 block column size: 5454
+Alignment time: 123.164966 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5000 block column size: 5000
+Alignment time: 127.592806 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5000 block column size: 5000
+Alignment time: 125.475689 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5000 block column size: 5000
+Alignment time: 123.820651 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4615 block column size: 4615
+Alignment time: 125.351670 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4615 block column size: 4615
+Alignment time: 123.230830 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4615 block column size: 4615
+Alignment time: 124.111640 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4285 block column size: 4285
+Alignment time: 124.239103 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4285 block column size: 4285
+Alignment time: 121.491049 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4285 block column size: 4285
+Alignment time: 124.531708 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4000 block column size: 4000
+Alignment time: 123.372911 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4000 block column size: 4000
+Alignment time: 122.346196 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4000 block column size: 4000
+Alignment time: 124.708398 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3750 block column size: 3750
+Alignment time: 120.751331 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3750 block column size: 3750
+Alignment time: 123.135488 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3750 block column size: 3750
+Alignment time: 123.515997 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3529 block column size: 3529
+Alignment time: 123.417524 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3529 block column size: 3529
+Alignment time: 121.662926 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3529 block column size: 3529
+Alignment time: 122.752784 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3333 block column size: 3333
+Alignment time: 122.772615 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3333 block column size: 3333
+Alignment time: 122.773193 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3333 block column size: 3333
+Alignment time: 122.668929 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3157 block column size: 3157
+Alignment time: 122.231611 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3157 block column size: 3157
+Alignment time: 119.616613 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3157 block column size: 3157
+Alignment time: 121.031121 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3000 block column size: 3000
+Alignment time: 121.047054 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3000 block column size: 3000
+Alignment time: 121.705491 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3000 block column size: 3000
+Alignment time: 122.417603 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2857 block column size: 2857
+Alignment time: 121.641360 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2857 block column size: 2857
+Alignment time: 119.944642 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2857 block column size: 2857
+Alignment time: 121.997521 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2727 block column size: 2727
+Alignment time: 121.720507 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2727 block column size: 2727
+Alignment time: 121.926467 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2727 block column size: 2727
+Alignment time: 121.711340 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2608 block column size: 2608
+Alignment time: 121.468555 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2608 block column size: 2608
+Alignment time: 121.236315 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2608 block column size: 2608
+Alignment time: 121.927400 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 60k Execução 1/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2500 block column size: 2500
+Alignment time: 122.095170 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 60k Execução 2/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2500 block column size: 2500
+Alignment time: 121.989066 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 60k Execução 3/3
+./main samples/60k1.fna samples/60k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >NZ_CP023303.1 Lactiplantibacillus plantarum strain pc-26 plasmid p.pc-2602, complete sequence
+Subject Sequence: >NZ_CTCB01000025.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain H01 is
+SIZE A: 60000 SIZE B: 60000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 2500 block column size: 2500
+Alignment time: 121.669217 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 31256 
+Misses: 14789 
+Gaps: 27910 
+AlignmentSize: 73955
+Score: -32830
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 80001 block column size: 80001
+Alignment time: 270.062256 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 80001 block column size: 80001
+Alignment time: 270.113232 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1 --threads 1
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 80001 block column size: 80001
+Alignment time: 270.271050 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 40000 block column size: 40000
+Alignment time: 208.664223 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 40000 block column size: 40000
+Alignment time: 209.889694 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 2 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2 --threads 2
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 40000 block column size: 40000
+Alignment time: 211.115881 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 26667 block column size: 26667
+Alignment time: 201.873560 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 26667 block column size: 26667
+Alignment time: 200.825417 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 3 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3 --threads 3
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 26667 block column size: 26667
+Alignment time: 201.591777 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 20000 block column size: 20000
+Alignment time: 214.362354 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 20000 block column size: 20000
+Alignment time: 232.217150 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 4 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4 --threads 4
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 20000 block column size: 20000
+Alignment time: 220.022059 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 16000 block column size: 16000
+Alignment time: 223.461712 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 16000 block column size: 16000
+Alignment time: 234.155769 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 5 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5 --threads 5
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 16000 block column size: 16000
+Alignment time: 227.188192 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 13333 block column size: 13333
+Alignment time: 205.313514 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 13333 block column size: 13333
+Alignment time: 222.876287 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 6 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6 --threads 6
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 13333 block column size: 13333
+Alignment time: 213.374958 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 11428 block column size: 11428
+Alignment time: 217.599952 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 11428 block column size: 11428
+Alignment time: 217.062888 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 7 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7 --threads 7
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 11428 block column size: 11428
+Alignment time: 214.573268 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 10000 block column size: 10000
+Alignment time: 225.652644 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 10000 block column size: 10000
+Alignment time: 222.656839 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 8 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8 --threads 8
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 10000 block column size: 10000
+Alignment time: 225.836384 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8889 block column size: 8889
+Alignment time: 217.804951 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8889 block column size: 8889
+Alignment time: 220.266023 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 9 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9 --threads 9
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8889 block column size: 8889
+Alignment time: 224.437625 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8000 block column size: 8000
+Alignment time: 220.014502 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8000 block column size: 8000
+Alignment time: 215.368267 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 10 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 10 --threads 10
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 8000 block column size: 8000
+Alignment time: 222.007270 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7272 block column size: 7272
+Alignment time: 222.822634 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7272 block column size: 7272
+Alignment time: 215.591964 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 11 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 11 --threads 11
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 7272 block column size: 7272
+Alignment time: 219.010222 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6666 block column size: 6666
+Alignment time: 217.955767 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6666 block column size: 6666
+Alignment time: 221.848069 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 12 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 12 --threads 12
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6666 block column size: 6666
+Alignment time: 216.168855 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6153 block column size: 6153
+Alignment time: 215.689616 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6153 block column size: 6153
+Alignment time: 215.880010 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 13 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 13 --threads 13
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 6153 block column size: 6153
+Alignment time: 219.638288 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5714 block column size: 5714
+Alignment time: 212.874300 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5714 block column size: 5714
+Alignment time: 217.412891 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 14 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 14 --threads 14
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5714 block column size: 5714
+Alignment time: 212.864538 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5333 block column size: 5333
+Alignment time: 216.811955 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5333 block column size: 5333
+Alignment time: 216.194880 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 15 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 15 --threads 15
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5333 block column size: 5333
+Alignment time: 210.012557 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5000 block column size: 5000
+Alignment time: 214.302070 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5000 block column size: 5000
+Alignment time: 215.922919 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 16 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 16 --threads 16
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 5000 block column size: 5000
+Alignment time: 215.128111 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4705 block column size: 4705
+Alignment time: 213.245642 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4705 block column size: 4705
+Alignment time: 215.293164 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 17 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 17 --threads 17
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4705 block column size: 4705
+Alignment time: 212.023817 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4444 block column size: 4444
+Alignment time: 211.755921 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4444 block column size: 4444
+Alignment time: 211.737214 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 18 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 18 --threads 18
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4444 block column size: 4444
+Alignment time: 210.903941 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4210 block column size: 4210
+Alignment time: 212.660354 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4210 block column size: 4210
+Alignment time: 212.947311 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 19 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 19 --threads 19
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4210 block column size: 4210
+Alignment time: 212.524928 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4000 block column size: 4000
+Alignment time: 213.264059 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4000 block column size: 4000
+Alignment time: 213.397818 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 20 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 20 --threads 20
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 4000 block column size: 4000
+Alignment time: 212.288989 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3809 block column size: 3809
+Alignment time: 212.293663 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3809 block column size: 3809
+Alignment time: 213.841648 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 21 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 21 --threads 21
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3809 block column size: 3809
+Alignment time: 211.158431 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3636 block column size: 3636
+Alignment time: 211.540086 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3636 block column size: 3636
+Alignment time: 212.496989 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 22 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 22 --threads 22
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3636 block column size: 3636
+Alignment time: 212.205459 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3478 block column size: 3478
+Alignment time: 212.648727 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3478 block column size: 3478
+Alignment time: 213.315800 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 23 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 23 --threads 23
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3478 block column size: 3478
+Alignment time: 211.626908 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 80k Execução 1/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3333 block column size: 3333
+Alignment time: 212.739228 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 80k Execução 2/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3333 block column size: 3333
+Alignment time: 212.783809 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 24 Tamanho: 80k Execução 3/3
+./main samples/80k1.fna samples/80k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 24 --threads 24
+<Reading Files>
+Reference Sequence: >NZ_LHDW01000006.1 Salmonella enterica subsp. enterica serovar Schwarzengrund strain CVM N43459 N43
+Subject Sequence: >NZ_KK223125.1 Staphylococcus aureus C2930 adZBx-supercont1.9, whole genome shotgun sequence4
+SIZE A: 80000 SIZE B: 80000
+<Initialize Matrix>
+<Calculate Matrix>
+block line size: 3333 block column size: 3333
+Alignment time: 212.232786 seconds
+<Mount Sequence>
+<Calculate Results>
+==========Results==========
+Hits: 41802 
+Misses: 20076 
+Gaps: 36244 
+AlignmentSize: 98122
+Score: -42986
+===========================
+<Writing file>
+<Done>
+
+Threads: 1 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1
+
+Threads: 1 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1
+
+Threads: 1 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 1
+
+Threads: 2 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2
+
+Threads: 2 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2
+
+Threads: 2 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 2
+
+Threads: 3 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3
+
+Threads: 3 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3
+
+Threads: 3 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 3
+
+Threads: 4 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4
+
+Threads: 4 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4
+
+Threads: 4 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 4
+
+Threads: 5 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5
+
+Threads: 5 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5
+
+Threads: 5 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 5
+
+Threads: 6 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6
+
+Threads: 6 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6
+
+Threads: 6 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 6
+
+Threads: 7 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7
+
+Threads: 7 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7
+
+Threads: 7 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 7
+
+Threads: 8 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8
+
+Threads: 8 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8
+
+Threads: 8 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 8
+
+Threads: 9 Tamanho: 130k Execução 1/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9
+
+Threads: 9 Tamanho: 130k Execução 2/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9
+
+Threads: 9 Tamanho: 130k Execução 3/3
+./main samples/130k1.fna samples/130k2.fna --match 2 --mismatch -3 --gap -5 --gap_seq -2 --blocks 9
